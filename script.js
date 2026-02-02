@@ -96,6 +96,19 @@ const projects = {
         { type: "image", src: "assets/project3-3.png", alt: "The Daffodil branding" }
       ]
     },
+
+    jcoco: {
+      title: "Jcoco Chocolate",
+      tags: "Packaging • Branding",
+      desc: "I designed a tropical-inspired packaging concept for Jcoco, introducing a new flavor while maintaining the brand’s clean and premium identity. The design uses a warm color palette and minimal graphic elements to communicate the flavor in a subtle, modern way. The result feels fresh, refined, and consistent with Jcoco’s existing packaging system.",
+      media: [
+        { type: "image", src: "assets/jcoco-allflavorssss.pdf", alt: "Jcoco Packaging" } ,
+        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi website" },
+        { type: "image", src: "assets/capizzi-flyer.jpg", alt: "Capizzi website" }
+
+
+      ]
+    }
   
     capizzi: {
       title: "Capizzi",
