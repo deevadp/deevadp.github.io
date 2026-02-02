@@ -104,9 +104,6 @@ const projects = {
       media: [
         { type: "image", src: "assets/jcoco-allflavorssss.png", alt: "Jcoco Packaging" } ,
         { type: "image", src: "assets/jcocotemplatepackage1.png", alt: "Jcoco Packaging" },
-        { type: "image", src: "assets/capizzi-flyer.jpg", alt: "Capizzi website" }
-
-
       ]
     },
   
