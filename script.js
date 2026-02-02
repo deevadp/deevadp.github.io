@@ -108,7 +108,7 @@ const projects = {
 
 
       ]
-    }
+    },
   
     capizzi: {
       title: "Capizzi",
