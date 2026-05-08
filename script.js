@@ -125,7 +125,7 @@ apparel: {
   desc: "Garment graphics and apparel-focused branding applications exploring merchandise, typography, and wearable visual identity systems.",
   media: [
     { type: "image", src: "assets/The_Daffodil_Merch.png", alt: "The Daffodil Merch" },
-    { type: "image", src: "assets/runforthewild_merch.png", alt: "Run For The Wild Merch" },
+    { type: "image", src: "assets/runforthewild_merch.jpg", alt: "Run For The Wild Merch" },
     { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" }
   ]
 }
