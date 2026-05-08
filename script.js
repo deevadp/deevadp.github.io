@@ -123,8 +123,7 @@ const projects = {
     Apparel: {
       title: "Apparel & Merchandise",
       tags: "Branding • Apparel Graphics",
-      desc: "Garment graphics and apparel-focused branding applications exploring merchandise, typography, and wearable visual identity systems.
-",
+     desc: "Garment graphics and apparel-focused branding applications exploring merchandise, typography, and wearable visual identity systems.",
       media: [
         { type: "image", src: "assets/The_Daffodil_Merch.png", alt: "The Daffodil Merch" } ,
         { type: "image", src: "assets/runforthewild_merch.png", alt: "Run For The Wild Merch" },
