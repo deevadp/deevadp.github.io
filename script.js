@@ -120,7 +120,7 @@ const projects = {
       ]
     },
 
-    Apparel & Merchandise: {
+    Apparel: {
       title: "Apparel & Merchandise",
       tags: "Branding • Apparel Graphics",
       desc: "Garment graphics and apparel-focused branding applications exploring merchandise, typography, and wearable visual identity systems.
