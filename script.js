@@ -113,7 +113,7 @@ const projects = {
       desc: "Web design and branding direction for Capizzi.",
       media: [
         { type: "image", src: "assets/capizzi_website.png", alt: "Capizzi website" } ,
-        { type: "image", src: "assets/jcoco-allflavorssss.png", alt: "Capizzi website" },
+        { type: "image", src: "assets/assets/capizzitshirt.jpeg", alt: "Capizzi website" },
         { type: "image", src: "assets/capizzi-flyer.jpg", alt: "Capizzi website" }
 
 
