@@ -113,7 +113,7 @@ const projects = {
       desc: "Web design and branding direction for Capizzi.",
       media: [
         { type: "image", src: "assets/capizzi_website.png", alt: "Capizzi website" } ,
-        { type: "image", src: "assets/assets/capizzitshirt.jpeg", alt: "Capizzi website" },
+        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi website" },
         { type: "image", src: "assets/capizzi-flyer.jpg", alt: "Capizzi website" }
 
 
@@ -127,7 +127,7 @@ const projects = {
       media: [
         { type: "image", src: "assets/The_Daffodil_Merch.png", alt: "The Daffodil Merch" } ,
         { type: "image", src: "assets/runforthewild_merch.png", alt: "Run For The Wild Merch" },
-        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" },
+        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" }
 
 
       ]
