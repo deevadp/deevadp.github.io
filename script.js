@@ -126,6 +126,7 @@ apparel: {
   media: [
     { type: "image", src: "assets/The_Daffodil_Merch.png", alt: "The Daffodil Merch" },
     { type: "image", src: "assets/runforthewild_merch.jpg", alt: "Run for the Wild" },
+     { type: "image", src: "assets/Capizzi_Merch_Black.jpeg", alt: "Capizzi Merch Black" },
     { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" }
   ]
 }
