@@ -127,7 +127,7 @@ const projects = {
       media: [
         { type: "image", src: "assets/The_Daffodil_Merch.png", alt: "The Daffodil Merch" } ,
         { type: "image", src: "assets/runforthewild_merch.png", alt: "Run For The Wild Merch" },
-        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" }
+        { type: "image", src: "assets/capizzitshirt.jpeg", alt: "Capizzi Merch" },
 
 
       ]
