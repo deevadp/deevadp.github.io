@@ -118,7 +118,7 @@ const projects = {
 
 
       ]
-    }
+    },
 
     Apparel & Merchandise: {
       title: "Apparel & Merchandise",
